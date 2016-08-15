@@ -1,0 +1,11 @@
+﻿@charset "utf-8";
+/* CSS Document */
+body,div,input,ul,li{ margin:0px; padding:0px;}
+li{ list-style:none;}
+input{ border:0 none;}
+.box{ width:355px; height:auto; overflow:hidden; margin:100px auto 0px;}
+.screen{ display:block; background:url(../images/pingmu.png) no-repeat;}
+.screen input{width:315px; height:64px;padding:0px 20px;font-size:24px; text-align:right; color:#fff; background:none; }
+.button{ width:100%; height:auto; overflow:hidden;}
+.button li{ float:left; width:53px; height:52px; background:url(../images/anniu.png) no-repeat; margin:15px 9px 0px; text-align:center; }
+.button input{ display:block;line-height:52px; color:#fff; font-size:18px; width:53px; height:52px; background:none;}
